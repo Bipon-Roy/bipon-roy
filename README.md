@@ -28,7 +28,7 @@
 
 </div>
 
-## Technologies That I know
+## :computer: Technologies That I know
 
 <p align="center">
   <a>
