@@ -1,6 +1,6 @@
 ![My Info](https://raw.githubusercontent.com/Bipon-Roy/bipon-roy/main/images/banner.png)
 
-## chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats">
