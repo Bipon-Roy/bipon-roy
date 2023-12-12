@@ -36,7 +36,7 @@
   </a>
 </p>
 
-## :dart: Recent Projects
+<!-- ## :dart: Recent Projects
 
 ### Employee Management Web App
 
@@ -86,4 +86,4 @@ The E-Shop project is about selling electronic products like phone,laptop,headph
 
 -   React, TailWind, DaisyUi, React Router, MongoDb, Express,Firebase.
 
-:link: [Client Site Code](https://github.com/Bipon-Roy/e-shop-client) - [Server Site Code](https://github.com/Bipon-Roy/e-shop-server) - [Live Site](https://eshop-31def.web.app)
+:link: [Client Site Code](https://github.com/Bipon-Roy/e-shop-client) - [Server Site Code](https://github.com/Bipon-Roy/e-shop-server) - [Live Site](https://eshop-31def.web.app) -->
