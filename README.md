@@ -31,7 +31,8 @@
   </a>
 </div>
 <br>
-<div style="display: flex;">
+<div style="display: flex;
+justify-content:center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bipon-Roy&theme=default" alt="Repositories per Language" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bipon-Roy&theme=default" alt="Most Used Language" width="45%" />
 </div>
